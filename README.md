@@ -1,2 +1,4 @@
 # Analisis-de-noticias-Banca-Publica-en-Ecuador
 Medición de la percepción de la Banca Pública en Ecuador en el período presidencial de Guillermo Lasso en los portales de noticias digitales
+
+La banca pública en Ecuador está compuesto por 6 instituciones: Banco Central del Ecuador (BCE), Corporación Nacional de Finanzas Populares (CONAFIPS), Banco Desarrollo del Ecuador (BDE), Corporación Financiero Nacional (CFN),Banco del Instituto Ecuatoriano de Seguridad Social (BIESS)y BanEcuador, el primero de ellos funciona como un Banco Central, es decir (se dedican principalmente a la supervisión y control de la masa monetaria, operaciones de compensación , mantenimiento de las reservas, etc.) y los 5 bancos restantes se dedican a la intermediación financiera (recepción de depósitos y otorgamiento de créditos) en sus diferentes ámbitos de acción, se hará el análisis de la banca pública que se dedica principalmente a la intermediación financiera.
